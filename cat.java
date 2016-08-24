@@ -1,0 +1,3 @@
+class cat{
+    String name;
+}
