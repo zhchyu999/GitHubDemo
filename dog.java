@@ -1,0 +1,3 @@
+class dog{
+    String Name;
+}
