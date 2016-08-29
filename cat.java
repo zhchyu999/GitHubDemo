@@ -1,4 +1,4 @@
 class cat{
     String name;
-    asd
+    Asd
 }
