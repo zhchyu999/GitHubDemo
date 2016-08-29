@@ -1,3 +1,3 @@
 class cat{
-    String name;
+    String Name;
 }
